@@ -7,7 +7,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
           japanese.md
-         title: bolt privacy policy
+        title: bolt privacy policy
     - uses: actions/upload-pages-artifact@v3
       with:
         path: dist
