@@ -10,7 +10,7 @@ Bolt (hereinafter referred to as "our company") has established the following pr
 
 When a user registers for use, the Company may ask for personal information such as name, date of birth, address, telephone number, email address, bank account number, credit card number, driver's license number, etc. In addition, the Company may collect information regarding transaction records and settlements, including personal information of the user, made between the user and business partners, etc. from the Company's business partners (including information providers, advertisers, ad delivery destinations, etc.; hereinafter referred to as "business partners").
 
-#Article 3 (Purpose of collecting and using personal information)
+# Article 3 (Purpose of collecting and using personal information)
 
 The purposes for which we collect and use personal information are as follows:
 
@@ -20,7 +20,7 @@ To provide and operate our services To respond to inquiries from users (includin
 
 The Company will change the purpose of use of personal information only if it is reasonably deemed that the new purpose is related to the previous purpose. If the purpose of use is changed, the Company will notify users of the new purpose in a manner specified by the Company or publish the new purpose on this website.
 
-#Article 5 (Provision of personal information to third parties)
+# Article 5 (Provision of personal information to third parties)
 
 Our company will not provide personal information to third parties without the prior consent of the user, except in the following cases. However, except as permitted by the Personal Information Protection Act and other laws and regulations.
 
