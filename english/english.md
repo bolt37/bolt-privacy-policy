@@ -69,3 +69,4 @@ Representative: Toshihiro Takagi
 Email address: toshihiro_takagi@bolt.nagoya
 
 **End**
+

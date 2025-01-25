@@ -70,3 +70,4 @@ bolt（以下，「当社」といいます。）は，本ウェブサイト上�
 Eメールアドレス：toshihiro_takagi@bolt.nagoya
 
 **以上**
+
