@@ -2,4 +2,7 @@
 
 github pagesでprivacy policyをdeployする。
 
-https://bolt37.github.io/bolt-privacy-policy/
+日本語：https://bolt37.github.io/bolt-privacy-policy/
+
+英語：https://bolt37.github.io/bolt-privacy-policy/english/
+
